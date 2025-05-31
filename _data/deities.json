@@ -1,1 +1,16 @@
-[]
+{
+  "ancient Greek mythology and religion": {
+    "native_lang": "grc",
+    "deities": [
+      {
+        "en_name": "Hermes",
+        "grc_name": "Ἑρμῆς",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hermes"
+      },
+      {
+        "en_name": "Iris",
+        "grc_name": "Ἶρις",
+        "wikipedia": "https://en.wikipedia.org/wiki/Iris_(mythology)"
+    ]
+  }
+}
